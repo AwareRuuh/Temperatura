@@ -1,3 +1,5 @@
+//Peça ao usuário a temperatura de temperatura em graus Celsius (°C), a converta e exiba em Kelvin (K), Fahrenheit (F), Réaumur (°Ré) e Rankine (Ra)
+
 import java.util.Scanner;
 
 class Main {
